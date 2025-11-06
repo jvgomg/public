@@ -10,6 +10,11 @@
 - There is no such thing as destiny but the human mind simulates the phenomena. It can be a powerful motivator and can offer meaning.
 - All things _don’t_ happen for a reason. However there is pretty much always something good that can be learnt or taken from happenings that feel bad if you recontextualise the experience.
 - Storytelling is at the core of all beliefs. A beginning, middle and end are the foundation of understanding.
+- The sensation of *loss* is more powerful than that of the sensation of *gain*. It’s a biological and evolutionary trait. It's important to be mindful of this phenomena and embrace blind optimism.
+- To offer leadership is to promote confidence. Good leaders hold confidence in their team’s ability to solve problems to overcome obstacles and reach outcomes. Poor leaders hold confidence in their own competence in seeing into the future and predicting outcomes.
+- It's good to listen to the answers of people who speak confidently from experience and knowledge. However, it's best to only trust those who can confidently say "I don't know". 
+- To champion is often to repeat yourself. Reminding yourself and those around you keeps causes and beliefs alive.
+
 
 ### The Self
 
@@ -19,6 +24,7 @@
 - The ability to surrender negative emotions and thoughts is a valuable approach to building emotional resilience.
 - The _Shadow Self_ is a useful construct to conceptualise fears and repressed passions. It is easier to label situations where other people have been involved in you putting parts of yourself into your _shadow bag_ than it is to label instances you do so on your own volition.
 - Fear is the mind killer. Fear is the enemy of self-realisation through trial and error.
+- The hours after waking is when the mind is in its most embryonic state. This time can set your mood and trajectory for the rest of the day. Using your mornings for solitary, creative work helps you find more fulfilment in life.
 
 ### Love
 
@@ -35,8 +41,13 @@
 
 ### Technology
 
-- Cryptocurrency and distributed ledgers are a provocative technology which solve a problem of federated civilisation. But the masses don't really care and it’s more trouble than it’s worth.
-- I’m hoping that I am retired before I have to deal with AI as part of my job. But I’d like to challenge that belief, however I probably won’t until I am forced to.
+- Cryptocurrency and distributed ledgers are a provocative technology which solve problems of federated civilisation. But the masses don't really care and it's more trouble than it's worth.
+- AI is a technology which cannot be held, used or considered like any tool before it. Compared to revolutions like the internet, smartphone, camera, loom or steam engine – AI is a black box which is difficult (or arguably impossible) to reason about. Its impact will continue to subtly permeate and be vast.
+- AI puts a huge strain on concerns of global energy use and climate change. I hope it becomes the stimulus to completely solve renewable energy.
+- AI tools are inherently arrogant and so spread misinformation. There is _some_ room to improve the human-computer interaction design to allow AI to convey uncertainty and a more balanced response. However, it is inevitable that humans must adapt in their perception of statistical and agentic conclusions.
+- AI slop is a real threat to everyone’s mental health and our social peace. I’m glad that realistic diffusion image tools are coming to the masses so everyone can understand firsthand how easy, valueless and untrustworthy content has become.
+- Being productive with agentic coding tools can allow technical and experienced people to single-handedly turn big ideas into reality. *Context engineering* is a real skill which can multiply speed, value and quality.
+- LLMs radically change the role and function of humans in many processes of applying knowledge and skill to a productive output. The role of education will radically shift.
 
 ## My Rules To Live By
 
@@ -53,4 +64,5 @@
 
 ## Changelog
 
-- 2024-11: Publish my first version of this repository and Book of Beliefs
+- 2025-11: Add more thinking that's come from my experiences with AI. Add some minor points captured over the year.
+- 2024-11: Publish my first version of this repository and Book of Beliefs.
